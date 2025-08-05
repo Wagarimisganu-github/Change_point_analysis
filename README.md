@@ -1,7 +1,5 @@
 ## Brent Crude Oil Price Analysis: Bayesian Change Point Detection
-https://github.com/zekikobe/brent-oil-analysis/workflows/CI/badge.svg
-https://codecov.io/gh/zekikobe/brent-oil-analysis/branch/main/graph/badge.svg
-https://img.shields.io/badge/python-3.9+-blue.svg
+
 
 A comprehensive analytical framework for detecting structural breaks in Brent crude oil prices using Bayesian statistical methods. This project helps identify significant market shifts caused by geopolitical events, economic policies, and supply-demand changes.
 
